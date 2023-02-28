@@ -1,2 +1,2 @@
-# exercicios-visualg
+# Exercícios feito no Visualg
 Exercícios de fixação 
