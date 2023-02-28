@@ -1,2 +1,2 @@
 # Exercícios feito no Visualg
-Exercícios de fixação 
+Exercícios de fixação feito em liguagem Portugol 
